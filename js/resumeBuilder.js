@@ -49,12 +49,12 @@ $("#header").append(pic);
 $("#header").append(name);
 $("#header").append(role);
 
-$("#header").append(mobile);
-$("#header").append(email);
-$("#header").append(twitter);
-$("#header").append(github);
-$("#header").append(blog);
-$("#header").append(city);
+$("#topContacts").append(mobile);
+$("#topContacts").append(email);
+$("#topContacts").append(twitter);
+$("#topContacts").append(github);
+$("#topContacts").append(blog);
+$("#topContacts").append(city);
 
 $("#header").append(msg);
 $("#header").append(HTMLskillsStart);
